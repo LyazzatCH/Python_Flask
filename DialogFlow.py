@@ -1,5 +1,5 @@
 """
-IF call from my PC: https://661a-2001-f40-909-3e31-b8be-35ea-54ac-4a93.ngrok-free.app -> http://localhost:5000
+Call from  PC (localhost): https://661a-2001-f40-909-3e31-b8be-35ea-54ac-4a93.ngrok-free.app -> http://localhost:5000
 from flask import Flask, request, jsonify
 from datetime import datetime
 
